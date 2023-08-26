@@ -1,9 +1,21 @@
+# Phasmomenu
+
+![image](https://prnt.sc/gkqN5j3sq2TE) 
+
+
+Внимание! Для работы этого чита требуется CheatEngine 
+
+https://www.cheatengine.org/
+
+Скачать - https://github.com/spacecollapse/Phasma/releases/download/phasm/PhasmoMenu.v0.5.0.9.By.PappyG_.unknowncheats.me._.exe
+
 # ProjectRencify
 
 ![image](https://user-images.githubusercontent.com/53594431/213750517-450f455f-098d-4705-ae63-827ab86bd164.png)
 
 Скачать - https://github.com/spacecollapse/Phasma/releases/download/phasm/Pr.exe
 
+он пока не обновлён! 
 
 После запуска у вас скачается чит, вы должны запустить Prinjector.exe когда вы в фазмофобии
 
