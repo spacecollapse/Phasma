@@ -1,7 +1,6 @@
 # Phasmomenu
 
-![image](https://prnt.sc/gkqN5j3sq2TE) 
-
+![image](https://i.ibb.co/h9NHg2P/IMG-20230826-135044-449.jpg) 
 
 Внимание! Для работы этого чита требуется CheatEngine 
 
