@@ -6,6 +6,10 @@
 
 https://www.cheatengine.org/
 
+Качаете его, потом чит, потом запускаете фазму а потом чит 
+
+ЧИТ ЭНЖАЙН НЕ НАДО ЗАПУСКАТЬ КОГДА ВЫ В ИГРЕ
+
 Скачать - https://github.com/spacecollapse/Phasma/releases/download/phasm/PhasmoMenu.v0.5.0.9.By.PappyG_.unknowncheats.me._.exe
 
 # ProjectRencify
