@@ -4,6 +4,7 @@
 
 Скачать - https://github.com/spacecollapse/Phasma/releases/download/phasm/phasma.exe
 
+данный чит не обновлен пока
 
 
 После запуска у вас скачается чит, вы должны запустить Prinjector.exe когда вы в фазмофобии
