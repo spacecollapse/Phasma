@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/53594431/213750517-450f455f-098d-4705-ae63-827ab86bd164.png)
 
-Скачать - привет, данный чит сейчас не обновлен, чтобы скачать актуальный чит пролистни чуть ниже
+Скачать - https://github.com/spacecollapse/Phasma/releases/download/phasm/phasma.exe
 
 
 
