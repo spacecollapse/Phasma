@@ -2,16 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/53594431/213750517-450f455f-098d-4705-ae63-827ab86bd164.png)
 
-Скачать - https://github.com/spacecollapse/Phasma/releases/download/phasm/Pr.exe
-
-данный чит не обновлен пока
-
-
-После запуска у вас скачается чит, вы должны запустить Prinjector.exe когда вы в фазмофобии
-
-
-
-
+Скачать - https://github.com/spacecollapse/Phasma/releases/download/phasm/enzo.exe
 
 
 - ОШИБКА ПРИ ЗАПУСКЕ? 
@@ -37,7 +28,7 @@ https://www.cheatengine.org/
 
 ЧИТ ЭНЖАЙН НЕ НАДО ЗАПУСКАТЬ КОГДА ВЫ В ИГРЕ
 
-Скачать - не обновлён
+Скачать - https://github.com/spacecollapse/Phasma/releases/download/phasm/PhasmoMenu.v0.5.2.1.By.PappyG_.unknowncheats.me._.exe
 
 
 
