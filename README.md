@@ -32,7 +32,7 @@ https://www.cheatengine.org/
 
 ЧИТ ЭНЖАЙН НЕ НАДО ЗАПУСКАТЬ КОГДА ВЫ В ИГРЕ
 
-Скачать - https://github.com/spacecollapse/Phasma/releases/download/phasm/PhasmoMenu.v0.5.2.1.By.PappyG_.unknowncheats.me._.exe
+Скачать - https://github.com/spacecollapse/Phasma/releases/download/phasm/PhasmoMenu.v0.5.2.2.By.PappyG_.unknowncheats.me._.exe
 
 
 
