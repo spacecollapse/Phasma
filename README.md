@@ -23,14 +23,6 @@
 
 ![image](https://github.com/spacecollapse/Phasma/assets/53594431/41c94d12-94f8-4193-9b90-bfed891848bc)
 
-Внимание! Для работы этого чита требуется CheatEngine 
-
-https://www.cheatengine.org/
-
-Качаете его, потом чит, потом запускаете фазму а потом чит 
-
-ЧИТ ЭНЖАЙН НЕ НАДО ЗАПУСКАТЬ КОГДА ВЫ В ИГРЕ
-
 Скачать - https://github.com/spacecollapse/Phasma/releases/download/phasm/PhasmoMenu.v0.5.2.5.By.PappyG_.unknowncheats.me._.exe
 
 
