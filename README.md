@@ -13,7 +13,7 @@
 
 Чтобы запустить нажимаем 1 и ентер если фазмофобия НЕ запущена
 
-![image](https://github.com/spacecollapse/Phasma/assets/53594431/7325787a-2c2e-463d-82e4-15e39b1a9858)
+![image](https://github.com/spacecollapse/Phasma/assets/53594431/d7833ca3-0b2b-4d2b-8d2c-6fa90a72802e)
 
 
 Нажимаем 2 и ентер если запущена
