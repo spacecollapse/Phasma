@@ -15,7 +15,6 @@
 
 Нажимаем 2 и ентер если запущена
 
-![image](https://media.discordapp.net/attachments/1158685311044436000/1204673141230796840/image-1.png?ex=65d5964a&is=65c3214a&hm=d739032e1482060a1bce50f6cdfd025ce81155856a96cab38147f6a3bbc89ae8&)
 
 
 
@@ -32,7 +31,7 @@ https://www.cheatengine.org/
 
 ЧИТ ЭНЖАЙН НЕ НАДО ЗАПУСКАТЬ КОГДА ВЫ В ИГРЕ
 
-Скачать - https://github.com/spacecollapse/Phasma/releases/download/phasm/PhasmoMenu.v0.5.2.3.exe
+Скачать - https://github.com/spacecollapse/Phasma/releases/download/phasm/PhasmoMenu.v0.5.2.5.By.PappyG_.unknowncheats.me._.exe
 
 
 
