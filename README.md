@@ -26,7 +26,7 @@
 
 ![image](https://github.com/spacecollapse/Phasma/assets/53594431/41c94d12-94f8-4193-9b90-bfed891848bc)
 
-Скачать - https://github.com/spacecollapse/Phasma/releases/download/phasm/PhasmoMenu.v0.5.2.5.By.PappyG_.unknowncheats.me._.exe
+Скачать - https://github.com/spacecollapse/Phasma/releases/download/phasm/PhasmoMenu.v0.5.2.7.By.PappyG_.unknowncheats.me._.exe
 
 
 
